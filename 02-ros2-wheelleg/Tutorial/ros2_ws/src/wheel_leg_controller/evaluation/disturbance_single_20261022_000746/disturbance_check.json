@@ -1,0 +1,14 @@
+{
+  "record": "disturbance_single_20261022_000746",
+  "manual_perturbation_force_measured": false,
+  "actual_force_release_time_measured": false,
+  "pitch_abs_peak_10_to_20_s_deg": 2.031334384781182,
+  "pitch_peak_sim_time_s": 11.684000000000001,
+  "recovery_band_pitch_abs_deg": 1.0,
+  "recovery_band_leg_error_mm": 5.0,
+  "continuous_recovery_band_start_sim_s": 13.884,
+  "time_from_pitch_peak_to_continuous_band_s": 2.1999999999999993,
+  "continuous_band_to_end_sim_s": 31.116,
+  "last_5s_steady_window_pass": true,
+  "scope": "This single manual light perturbation recovered; force and release time were not recorded. Not a quantified force tolerance."
+}

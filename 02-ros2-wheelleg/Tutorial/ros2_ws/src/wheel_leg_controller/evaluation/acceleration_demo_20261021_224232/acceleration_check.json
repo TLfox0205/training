@@ -1,0 +1,10 @@
+{
+  "csv_file": "/home/tlfox/venom_cpp_basics/training/02-ros2-wheelleg/Tutorial/ros2_ws/src/wheel_leg_controller/evaluation/acceleration_demo_20261021_224232/balance_20261021_224235_074005.csv",
+  "row_count": 8001,
+  "sim_duration_s": 16.0,
+  "ramp_acceleration_max_m_s2": 0.8000000000002498,
+  "ramp_braking_max_m_s2": 1.4000000000007762,
+  "reference_slew_limits_pass": true,
+  "measured_wheel_acceleration_abs_max_5_to_9s_m_s2": 6.4160361134179125,
+  "note": "Limits apply to the internal speed reference, not a hard bound on physical wheel/body acceleration."
+}

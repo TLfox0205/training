@@ -1,0 +1,21 @@
+{
+  "mode": "balance",
+  "target_length_m": 0.1,
+  "dt_s": 0.002,
+  "command_steps": 22500,
+  "sim_duration_s": 45.0,
+  "wall_duration_s": 44.998849294002866,
+  "steady_window_sim_s": 5.0,
+  "steady_window_wall_s": 4.9995059889988624,
+  "steady_pitch_abs_max_deg": 0.11549684218347821,
+  "steady_right_length_error_max_mm": 1.4774009526423297,
+  "steady_left_length_error_max_mm": 1.4761489911263443,
+  "steady_window_pass": true,
+  "csv_file": "/home/tlfox/venom_cpp_basics/training/02-ros2-wheelleg/Tutorial/ros2_ws/src/wheel_leg_controller/evaluation/disturbance_single_20261022_000746/balance_20261022_000749_283761.csv",
+  "reference_sha256": {
+    "vmc_cal.py": "f96783cc28c6882b3ce5970707c4effea96290c9b9e7fe2d83a0a12b57e714c0",
+    "lqr_update.py": "ef877e91c44a4925ba13a9a4820c13fbb10bbc424f1ad08056603ce098b96f67"
+  },
+  "time_note": "sim_time is command_steps * 0.002; start from a fresh sim",
+  "motion_bonus_validated": false
+}
